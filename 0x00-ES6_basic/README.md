@@ -1,1 +1,1 @@
-.eslintrc.js
+package.json
