@@ -1,1 +1,1 @@
-4-rest-parameter.js
+5-spread-operator.js
