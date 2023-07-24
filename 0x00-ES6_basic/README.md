@@ -1,1 +1,1 @@
-0-constants.js
+.eslintrc.js
