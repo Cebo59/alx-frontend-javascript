@@ -1,1 +1,1 @@
-2-then.js
+3-all.js
