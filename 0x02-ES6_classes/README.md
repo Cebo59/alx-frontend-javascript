@@ -1,1 +1,1 @@
-3-currency.js
+4-pricing.js
