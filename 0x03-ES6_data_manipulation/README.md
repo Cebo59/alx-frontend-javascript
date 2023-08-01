@@ -1,1 +1,1 @@
-1-get_list_student_ids.js
+3-get_ids_sum.js
